@@ -93,7 +93,7 @@ form {
  
  .error-message {
    display: block;
-   font-size: 12px;
+   font-size: 15px;
    color: black;
    margin-top: 5px;
    background-color:rgb(137, 45, 117);
